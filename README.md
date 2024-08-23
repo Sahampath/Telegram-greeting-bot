@@ -14,7 +14,10 @@
 <img src="https://img.shields.io/github/forks/Sahampath/Telegram-greeting-bot?style=for-the-badge&logo=appveyor"> </h4>
 
 **introduction :**
-1. ``` pip install -r requirements.txt ```
+1.
+```bash
+pip install -r requirements.txt
+```
 2. Edit .env File to add your bot token
 
 #
