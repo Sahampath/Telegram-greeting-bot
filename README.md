@@ -10,11 +10,11 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahampath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> </h3>
     
 <h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Discord-Channel-Mirror/total?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/stars/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/github/forks/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor"> </h4>
+<img src="https://img.shields.io/github/stars/Sahampath/Telegram-greeting-bot?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/forks/Sahampath/Telegram-greeting-bot?style=for-the-badge&logo=appveyor"> </h4>
 
 **introduction :**
-1. ```pip install -r requirements.txt```
+1. ``` pip install -r requirements.txt ```
 2. Edit .env File to add your bot token
 
 #
